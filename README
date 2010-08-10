@@ -1,0 +1,9 @@
+pycrowdflower
+=============
+
+    by Joseph Turian
+
+Python code for accessing the CrowdFlower API.
+
+REQUIREMENTS:
+    * http://github.com/turian/common/
