@@ -6,4 +6,5 @@ pycrowdflower
 Python code for accessing the CrowdFlower API.
 
 REQUIREMENTS:
-    * http://github.com/turian/common/
+    * http://github.com/turian/common
+    * http://github.com/seisen/urllib2_file
